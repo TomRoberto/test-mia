@@ -7,7 +7,7 @@ import Header from "./components/Header";
 // pages
 import Comics from "./pages/Comics";
 import Characters from "./pages/Characters";
-import CharactersId from "./pages/CharactersID";
+import CharactersId from "./pages/CharactersId";
 import ComicsId from "./pages/ComicsId";
 import Favorites from "./pages/Favorites";
 //
